@@ -1,0 +1,18 @@
+h2 {
+  margin: 0px;
+}
+
+/* bt means border-top */
+.bt {
+  border-top: solid 2px #000000;
+}
+.br {
+  border-right: solid 2px #000000;
+}
+
+.bb {
+  border-bottom: solid 2px #000000;
+}
+.bl {
+  border-left: solid 2px #000000;
+}
